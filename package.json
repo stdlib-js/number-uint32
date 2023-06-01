@@ -56,7 +56,7 @@
     "@stdlib/number-uint32-base-to-binary-string": "^0.0.8",
     "@stdlib/number-uint32-base-to-int32": "^0.0.7",
     "@stdlib/random-base-randu": "^0.0.8",
-    "@stdlib/string-format": "^0.0.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2",
     "@stdlib/string-left-pad": "^0.0.9",
     "@stdlib/utils-keys": "^0.0.7",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
