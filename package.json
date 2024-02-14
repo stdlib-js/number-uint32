@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint32",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Utilities for unsigned 32-bit integers.",
   "license": "Apache-2.0",
   "author": {
@@ -36,8 +36,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint32-base": "^0.1.0",
-    "@stdlib/utils-define-read-only-property": "^0.1.1"
+    "@stdlib/number-uint32-base": "^0.2.0",
+    "@stdlib/utils-define-read-only-property": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-uint32": "^0.1.1",
@@ -48,20 +48,20 @@
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/math-base-special-round": "^0.1.1",
     "@stdlib/number-float64-base-to-uint32": "^0.1.1",
-    "@stdlib/number-int32-base-to-uint32": "^0.1.1",
-    "@stdlib/number-uint32-base-from-binary-string": "^0.1.0",
-    "@stdlib/number-uint32-base-rotl": "^0.1.1",
-    "@stdlib/number-uint32-base-rotr": "^0.1.1",
+    "@stdlib/number-int32-base-to-uint32": "^0.2.0",
+    "@stdlib/number-uint32-base-from-binary-string": "^0.2.0",
+    "@stdlib/number-uint32-base-rotl": "^0.2.0",
+    "@stdlib/number-uint32-base-rotr": "^0.2.0",
     "@stdlib/number-uint32-base-to-binary-string": "^0.1.1",
-    "@stdlib/number-uint32-base-to-int32": "^0.1.1",
+    "@stdlib/number-uint32-base-to-int32": "^0.2.0",
     "@stdlib/random-base-randu": "^0.1.0",
-    "@stdlib/string-format": "^0.1.1",
+    "@stdlib/string-format": "^0.2.0",
     "@stdlib/string-left-pad": "^0.1.1",
     "@stdlib/utils-keys": "^0.1.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.1.2"
+    "@stdlib/bench-harness": "^0.2.0"
   },
   "engines": {
     "node": ">=0.10.0",
