@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint32-base": "^0.2.1",
+    "@stdlib/number-uint32-base": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
