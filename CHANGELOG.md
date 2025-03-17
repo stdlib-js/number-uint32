@@ -4,9 +4,87 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-17)
 
-No changes reported for this release.
+<section class="packages">
+
+### Packages
+
+<section class="package" id="number-uint32-base-mul-unreleased">
+
+#### [@stdlib/number/uint32/base/mul](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/mul)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - add `number/uint32/base/mul`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="number-uint32-base-muldw-unreleased">
+
+#### [@stdlib/number/uint32/base/muldw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/number/uint32/base/muldw)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - add `number/uint32/base/muldw`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gururaj Gurram
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`5014579`](https://github.com/stdlib-js/stdlib/commit/50145790965ef11b4a7852a79944776f6d1e9c6f) - **feat:** add `number/uint32/base/muldw` _(by Gururaj Gurram)_
+-   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`348d584`](https://github.com/stdlib-js/stdlib/commit/348d5840b4d4931cf29946caef15ffa4b181ebd3) - **feat:** add `number/uint32/base/mul` _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
 
 </section>
 
