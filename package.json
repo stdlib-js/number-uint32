@@ -64,7 +64,7 @@
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-minstd": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/string-left-pad": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-keys": "^0.2.2",
